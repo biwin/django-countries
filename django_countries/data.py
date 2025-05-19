@@ -269,7 +269,7 @@ COUNTRIES: "Dict[str, StrPromise]" = {
     "AE": _("United Arab Emirates"),
     "GB": _("United Kingdom of Great Britain and Northern Ireland"),
     "UM": _("United States Minor Outlying Islands"),
-    "US": _("United States of America"),
+    "US": _("United States"),
     "UY": _("Uruguay"),
     "UZ": _("Uzbekistan"),
     "VU": _("Vanuatu"),
